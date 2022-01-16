@@ -1,0 +1,1 @@
+Easy exercise: how to create objects with PyGame
